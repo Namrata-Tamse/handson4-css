@@ -1,0 +1,246 @@
+
+
+.A { border: 1px solid rgb(234, 228, 228);
+     height: 30px;
+     width: 1630px;
+     background-image: linear-gradient( to right, red, green, yellow);
+     }
+
+
+.ap { margin-left: 700px;
+    margin-top: -15px;
+    }
+
+    
+.B  { border: 5px solid red;
+      height: 70px;
+      width: 900px;
+      background-color: skyblue;
+      border-radius: 10px;
+      margin-left: 350px
+    }
+
+
+
+.ap2 { margin-left: 350px;
+       margin-top: -9px;
+     }
+
+
+.C { border: 1px solid black;
+     height: 170px;
+     width: 1630px;
+     border-radius: 20px;
+     background-color: aquamarine;
+     display: flex;
+
+}
+
+
+.ap3 { border: 3px solid green;
+       height: 80px;
+       width: 500px;
+       color: black;
+       background-color: aquamarine;
+       border-radius: 10px;
+       font-size: 10px;
+       text-align: center;
+       margin-left: 5px;
+     }
+
+
+
+.ap4 { border: 3px solid green;
+       height: 80px;
+       width: 500px;
+       font-size: 10px;
+       background-color: aquamarine;
+       border-radius: 10px; 
+       text-align: center;
+       margin-left: 50px;
+      }
+      
+      
+.ap5 { border: 3px solid green;
+       height: 80px;
+       width: 500px;
+       font-size: 10px;
+       background-color: aquamarine;
+       border-radius: 10px;
+       text-align: center;
+       margin-top: 85px;
+       margin-left: -505px;
+       }
+
+
+.ap6 {  border: 3px solid green;
+     height: 80px;
+     width: 500px;
+     font-size: 10px;
+     background-color: aquamarine;
+     border-radius: 10px;
+     text-align: center;
+     margin-left: 53px;
+     }
+
+.D { border: 1px solid grey;
+     height: 30px;
+     width:1630px;
+     font-size:18px;
+     background-image: linear-gradient(to right, red,yellow, red); 
+    }
+
+
+.ap7  { text-align: center;
+      }
+
+
+.E {  border: 2px solid green;
+      height: 350px;
+      width: 1630px;
+      background-image: radial-gradient(ellipse at center , blue, skyblue, green);
+      display: flex;
+      flex-direction: row;
+      text-align: center;
+      gap:150px;
+     }
+
+
+.ap8 {  border: 3px solid red;
+        border-radius: 20px;
+        height: 130px;
+        width: 210px;
+        background-color: yellow;
+        margin-top: 85px;
+        color: brown;
+        margin-left: 150px;
+     }
+
+
+.ap9 { border: 3px solid red;
+       border-radius: 20px;
+     height: 130px;
+     width: 210px;
+     background-color: yellow;
+     margin-top: 85px;
+     color: brown;
+     }
+
+
+.ap10 { border: 3px solid red;
+        border-radius: 20px;
+        height: 130px;
+        width: 210px;
+        background-color: yellow;
+        margin-top: 85px;
+        color: brown;    
+      }
+
+
+.ap11 {  
+     border: 3px solid red;
+     border-radius: 20px;
+     height: 130px;
+     width: 210px;
+     background-color: yellow;
+     margin-top: 85px;
+     color: brown; 
+      }
+
+
+.F   { border: 1px solid grey;
+       height: 35px;
+       width: 1630px;
+       text-align: center;
+       color: white;
+       background-color: red;
+     }
+
+
+.ap12 { margin-top: -15px;}
+
+
+.G{
+     display:flex;
+     gap: 15px;
+     
+
+}
+
+.ap13{ border: 1 px solid grey;
+       height: 70px;
+       width: 490px;
+       color: white;
+       text-align: center;
+       background-color: green;
+       font-size: 20px;
+     }
+
+
+.ap14 {
+     border: 1 px solid grey;
+     height: 70px;
+     width: 490px;
+     color: whitesmoke;
+     text-align: left;
+     background-color: skyblue;
+     font-size: 20px;
+      }
+
+
+.ap15{
+     border: 1 px solid grey;
+     height: 70px;
+     width: 493px;
+     color: whitesmoke;
+     text-align: left;
+     background-color: blue;
+     font-size: 20px;
+     }
+
+
+
+.H {
+     border: 3px solid rgb(233, 224, 224);
+     height: 150px;
+     width: 1500px;
+     color: whitesmoke;
+     background-color: orange;
+     display: block;
+   }
+
+.ap16 {margin-top: -15px; }
+
+.I {
+     border: 1px solid grey;
+     height: 243px;
+     width: 110px;
+     margin-top: -245px;
+     background-color: black;
+     display: block;
+     margin-left: 1520px;
+   }
+
+
+.ap17{ 
+     color: white;
+}
+
+
+
+.J {
+     border: 1 px solid grey;
+     height: 25px;
+     width: 1631px;
+     text-align: center;
+     color: black;
+     font-size: 20px;
+     background-color: aquamarine;
+   }
+
+
+.table { border: 1px solid gray;
+         width: 1631px;
+
+
+       }
